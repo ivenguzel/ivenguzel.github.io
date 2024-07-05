@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle: iguzel2[at]illinois[dot]edu
 
 profile:
   align: right
