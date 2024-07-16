@@ -18,3 +18,4 @@ I’m currently a PhD student at the department of Electrical and Computer Engin
 I received my B.Sc. and M.Sc. degrees from the [METU](https://www.metu.edu.tr/) in Electrical and Electronics Engineering, where I was advised by [Prof. Murat Gol](https://blog.metu.edu.tr/mgol/). I was affiliated with the [PowerLab](https://odtu.github.io/) during my B.Sc. and M.Sc., and also with the [Reliable and Efficient INformation Systems (REINS) Group](https://users.metu.edu.tr/ahareedy/), which is lead by [Prof. Ahmed Hareedy](https://eee.metu.edu.tr/personel/ahmed-h-hareedy), during my final year at METU.
 
 
+ For more details, please see my CV.
